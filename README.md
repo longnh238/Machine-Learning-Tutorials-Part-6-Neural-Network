@@ -45,7 +45,7 @@ To run the tutorials, ensure you have Python and the following libraries install
 To explore the tutorials, run `jupyter notebook` in your terminal and navigate to the `.ipynb` file for each topic to get hands-on experience with building, training, and evaluating neural networks.
 
 ## Contributing
-We welcome contributions! Whether it's fixing bugs, adding new tutorials, or improving the content, feel free to participate.
+Contributions are welcome! Whether it's fixing bugs, adding new tutorials, or improving the content, feel free to participate.
 
 To contribute:
 1. Fork the repository.
